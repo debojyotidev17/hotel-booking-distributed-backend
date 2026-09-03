@@ -1,0 +1,18 @@
+{"level":"info","message":"Server is up","correlationID":"unknown-error-while-creating-correlation-id","timestamp":"08-27-2026 10:38:42","data":{"data":"dev server"}}
+{"level":"info","message":"Validating req body","correlationID":"a50a9f00-5a70-47fb-9c59-66ddb8a2a7a7","timestamp":"08-27-2026 10:44:46","data":{}}
+{"level":"info","message":"Request body is valid","correlationID":"a50a9f00-5a70-47fb-9c59-66ddb8a2a7a7","timestamp":"08-27-2026 10:44:46","data":{}}
+{"level":"info","message":"Validating req body","correlationID":"59b88f74-6765-44f1-b5a1-6d62e4e0d6ca","timestamp":"08-27-2026 10:48:40","data":{}}
+{"level":"info","message":"Request body is valid","correlationID":"59b88f74-6765-44f1-b5a1-6d62e4e0d6ca","timestamp":"08-27-2026 10:48:40","data":{}}
+{"level":"info","message":"Hotel created: 1","correlationID":"59b88f74-6765-44f1-b5a1-6d62e4e0d6ca","timestamp":"08-27-2026 10:48:40","data":{}}
+{"level":"info","message":"Validating req body","correlationID":"3267cd9c-0b22-4375-9ae8-9de27067817e","timestamp":"08-27-2026 10:52:27","data":{}}
+{"level":"info","message":"Request body is valid","correlationID":"3267cd9c-0b22-4375-9ae8-9de27067817e","timestamp":"08-27-2026 10:52:27","data":{}}
+{"level":"info","message":"Hotel created: 2","correlationID":"3267cd9c-0b22-4375-9ae8-9de27067817e","timestamp":"08-27-2026 10:52:27","data":{}}
+{"level":"info","message":"Hotel found : 1","correlationID":"972417d5-ddfe-4976-9722-a65618d100d2","timestamp":"08-27-2026 10:56:33","data":{}}
+{"level":"info","message":"Hotel found : 2","correlationID":"36a893ee-eb21-4556-821c-d5a932530d3f","timestamp":"08-27-2026 10:56:47","data":{}}
+{"level":"info","message":"Validating req body","correlationID":"4dc9c838-b2b0-4f40-8ff3-5ad0ae4c30d1","timestamp":"08-27-2026 10:59:29","data":{}}
+{"level":"info","message":"Request body is valid","correlationID":"4dc9c838-b2b0-4f40-8ff3-5ad0ae4c30d1","timestamp":"08-27-2026 10:59:29","data":{}}
+{"level":"info","message":"Hotel created: 3","correlationID":"4dc9c838-b2b0-4f40-8ff3-5ad0ae4c30d1","timestamp":"08-27-2026 10:59:29","data":{}}
+{"level":"info","message":"Server is up","correlationID":"unknown-error-while-creating-correlation-id","timestamp":"08-27-2026 11:39:06","data":{"data":"dev server"}}
+{"level":"info","message":"Server is up","correlationID":"unknown-error-while-creating-correlation-id","timestamp":"08-27-2026 11:39:07","data":{"data":"dev server"}}
+{"level":"info","message":"Validating req body","correlationID":"f4f0de46-a53e-4d84-91bf-d79e1fb52d41","timestamp":"08-27-2026 11:39:09","data":{}}
+{"level":"error","message":"Request body is invalid","correlationID":"f4f0de46-a53e-4d84-91bf-d79e1fb52d41","timestamp":"08-27-2026 11:39:09","data":{}}
